@@ -12,7 +12,7 @@ namespace VAT
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Welcome to VAT Service");
-			//Console.WriteLine("This is commit 2 line");
+			Console.WriteLine("This is commit 2 line");
 			Console.ReadLine();
 		}
 	}
