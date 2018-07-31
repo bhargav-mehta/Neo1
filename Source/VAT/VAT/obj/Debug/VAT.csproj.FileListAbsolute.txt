@@ -1,0 +1,7 @@
+D:\GITREPO\Neo\Source\Services\VAT\VAT\bin\Debug\VAT.exe.config
+D:\GITREPO\Neo\Source\Services\VAT\VAT\bin\Debug\VAT.exe
+D:\GITREPO\Neo\Source\Services\VAT\VAT\bin\Debug\VAT.pdb
+D:\GITREPO\Neo\Source\Services\VAT\VAT\obj\Debug\VAT.csprojResolveAssemblyReference.cache
+D:\GITREPO\Neo\Source\Services\VAT\VAT\obj\Debug\VAT.csproj.CoreCompileInputs.cache
+D:\GITREPO\Neo\Source\Services\VAT\VAT\obj\Debug\VAT.exe
+D:\GITREPO\Neo\Source\Services\VAT\VAT\obj\Debug\VAT.pdb
